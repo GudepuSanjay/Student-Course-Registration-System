@@ -15,7 +15,7 @@ This project simulates a Student Course Registration System. It allows students 
 
 ## How to Run:
 1. Compile the Java file:
-   
+   ```bash
    javac CourseRegistrationSystem.java
    java CourseRegistrationSystem
 ## Example
